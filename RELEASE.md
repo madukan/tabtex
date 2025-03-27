@@ -23,4 +23,4 @@ Options available (to extract the Title and URL) are as follows:
 
 
 ---
-Back to [README](README.md)
+Back to [README](README.md) | Any suggestions? [Issue register](https://github.com/madukan/tabtex/issues)

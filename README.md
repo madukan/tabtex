@@ -30,3 +30,5 @@ See: [RELEASE](RELEASE.md)
 ## Privacy note
 See: [PRIVACY](PRIVACY.md)
 
+## Bugs, Issues, Suggestions
+ Any suggestions/bugs/issues? [Issue register](https://github.com/madukan/tabtex/issues)

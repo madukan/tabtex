@@ -28,4 +28,6 @@ That's it. You're all set. Enjoy!
 
 
 ---
-Back to [README](README.md)
+Back to [README](README.md) | Any suggestions? [Issue register](https://github.com/madukan/tabtex/issues)
+
+
