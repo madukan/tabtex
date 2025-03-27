@@ -24,4 +24,9 @@ This repository: https://github.com/madukan/tabtex
 
 Here're the steps to get started: [SETUP](SETUP.md)
 
+## Release notes
+See: [RELEASE](RELEASE.md)
+
+## Privacy note
+See: [PRIVACY](PRIVACY.md)
 
