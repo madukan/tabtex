@@ -39,3 +39,5 @@ If you have any questions about this Privacy Policy or how TabTex operates, plea
 
 By using TabTex, you acknowledge that you have read and understood this Privacy Policy.
 
+---
+Back to [README](README.md)

@@ -20,3 +20,7 @@ Options available (to extract the Title and URL) are as follows:
 ![|500](resources/release_v_1.0.png)
 
 
+
+
+---
+Back to [README](README.md)
