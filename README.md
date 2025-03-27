@@ -18,8 +18,8 @@ TabTex is designed to make saving, documenting, and referencing your tabs fast, 
 
 **Please note that this site is used only for issue tracking only**
 
-Report issues here: [https://github.com/madukan/tabtex/issues](https://github.com/madukan/tabtex/issues)
-This repository: https://github.com/madukan/tabtex
+1. Report issues here: [https://github.com/madukan/tabtex/issues](https://github.com/madukan/tabtex/issues)
+2. This repository: https://github.com/madukan/tabtex
 
 ## Setup step by step
 
