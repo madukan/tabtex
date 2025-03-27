@@ -6,7 +6,7 @@
 4) Save the user's last use export choice 
 NOTE: Since this state is saved in browser itself, upon browser cache cleaning or browser application storage cleaning this will be removed.
 
-![|500](resources/Pasted%20image%2020250327231243.png)
+![|500](resources/release_v_1.1.png)
 
 #### v 1.0: First release, 27/03/2025.
 First release with a few choices of Title and URL extraction from the open tabs in Chrome. A simple, fast UI that aims to get to works with no gimmick.

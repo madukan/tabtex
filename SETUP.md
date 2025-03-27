@@ -19,3 +19,8 @@ So, here are the steps:
 
 5) Now you should see the little icon, 
    ![450](resources/step-04.png)
+6) Now, simply click on the TabTex button in the browser.
+![](resources/step-05.png)
+
+
+That's it. You're all set. Enjoy!
