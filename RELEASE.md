@@ -1,5 +1,10 @@
 ## Release history
 #### v 1.1: Some feedback incorporated, (In-progress)
+1) Added tab-groups exporting. When the current tab in focus is in a group, then lists all tabs in that group. This doesn't take into account any other tab groups.
+
+![|500](resources/tabtex_screenshot_v1_2_tabgroup.png)
+
+#### v 1.1: Some feedback incorporated
 1) Rename the radio buttons so that they are more easier to understand (and takes less realestate on the pop-up)
 2) Clean up the icon background (make it transparent)
 3) Make it easier to update the extension (developer idea!) - made the TabTex text clickable, linked to the extension website
