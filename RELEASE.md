@@ -1,12 +1,23 @@
 ## Release history
 
-#### v 1.1: Tab Group Export, (In-progress)
+#### Future intentions..
+1) Re-open URLs as Tab-groups as Tab Groups 
+2) Tab group should be visible only when tab-groups are present that current tab is a part of
+3) Tab groups to export all across windows
+
+#### v 1.3: Re-open tabs (in-progress) - May 2025
+1) Re-open URLs as Tabs (Note: Tab groups are re-opened as individual tabs at present)
+   a. Opens the tabs for http, https, ftp etc.
+   b. When chrome://, moz:// edge://, prints a warning in the console
+   (because they are not allowed to be programatically opened by the browser security)
+
+#### v 1.2: Tab Group Export - April 2025
 1) Added tab-groups exporting. When the current tab in focus is in a group, then lists all tabs in that group. This doesn't take into account any other tab groups.
 
 ![|500](resources/v1_2_tab_group_export.png)
 
-#### v 1.1: Some feedback incorporated
-#### v 1.1: Some feedback incorporated
+
+#### v 1.1: Some feedback incorporated - Mar 2025
 1) Rename the radio buttons so that they are more easier to understand (and takes less realestate on the pop-up)
 2) Clean up the icon background (make it transparent)
 3) Make it easier to update the extension (developer idea!) - made the TabTex text clickable, linked to the extension website
@@ -15,7 +26,7 @@ NOTE: Since this state is saved in browser itself, upon browser cache cleaning o
 
 ![|500](resources/release_v_1.1.png)
 
-#### v 1.0: First release, 27/03/2025.
+#### v 1.0: First release - Mar 2025
 First release with a few choices of Title and URL extraction from the open tabs in Chrome. A simple, fast UI that aims to get to works with no gimmick.
 
 Options available (to extract the Title and URL) are as follows:

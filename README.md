@@ -16,13 +16,15 @@ Get all the active pages' URLs across all the windows (reminds later what was wo
 ![](resources/tabtex_screenshot_v1.png)
 
 Choose from four options:
-- ✅ Export only the current tab
-- ✅ Export all tabs in the current window
-- ✅ Export tabs from all open windows
-- ✅ Export only active tabs across all windows
-- ✅ Export only active group currently in focus
+1. Export only the current tab
+2. Export all tabs in the current window
+3. Export tabs from all open windows
+4. Export only active tabs across all windows
+5. Export current tab group (group of the tab in focus)
 
-TabTex is designed to make saving, documenting, and referencing your tabs fast, simple, and efficient. 🚀
+Also, the URLs in the text area can be opened as new tabs in one click too!
+
+TabTex is designed to make archiving, documenting, and referencing your past visited website quickly, simply, and more efficiently (and in a friendlier way! - no formatting gimmics - plain simple text). 🚀
 
 
 **Please note that this site is used only for issue tracking only**
