@@ -10,17 +10,23 @@ Effortlessly export the title and URL of your open tabs as text.
 ## Features
 
 Get the URLs and Titles for the Tab Group currently in focus:
-![](resources/tabtex_screenshot_v1_2.png)
+
+![](yImages/tabtex_1_3__2.png.png)
+
 
 Get all the active pages' URLs across all the windows (reminds later what was working on):
+
 ![](resources/tabtex_screenshot_v1.png)
 
-Choose from four options:
+
+Choose from four export options:
+
 1. Export only the current tab
 2. Export all tabs in the current window
 3. Export tabs from all open windows
 4. Export only active tabs across all windows
 5. Export current tab group (group of the tab in focus)
+
 
 Also, the URLs in the text area can be opened as new tabs in one click too!
 
@@ -41,6 +47,11 @@ See: [RELEASE](RELEASE.md)
 
 ## Privacy note
 See: [PRIVACY](PRIVACY.md)
+
+To summarise, this extension only use the URL and Title of the page. It will open new tabs with the URLs supplied in the same content area when the user requested (by clicking the button).
+
+Chrome classification for this component:
+![|500](yImages/browser_access_levels_1.png)
 
 ## Bugs, Issues, Suggestions
  Any suggestions/bugs/issues? [Issue register](https://github.com/madukan/tabtex/issues)

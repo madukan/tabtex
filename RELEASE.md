@@ -5,11 +5,13 @@
 2) Tab group should be visible only when tab-groups are present that current tab is a part of
 3) Tab groups to export all across windows
 
-#### v 1.3: Re-open tabs (in-progress) - May 2025
+#### v 1.3: Re-open tabs - May 2025
 1) Re-open URLs as Tabs (Note: Tab groups are re-opened as individual tabs at present)
    a. Opens the tabs for http, https, ftp etc.
    b. When chrome://, moz:// edge://, prints a warning in the console
    (because they are not allowed to be programatically opened by the browser security)
+
+![|500](yImages/tabtex_1_3.png.png)
 
 #### v 1.2: Tab Group Export - April 2025
 1) Added tab-groups exporting. When the current tab in focus is in a group, then lists all tabs in that group. This doesn't take into account any other tab groups.
