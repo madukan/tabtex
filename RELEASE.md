@@ -5,6 +5,15 @@
 2) Tab group should be visible only when tab-groups are present that current tab is a part of
 3) Tab groups to export all across windows
 
+#### v 1.4: Errors reported for re-opening URLs as Tabs - June 2025
+1) Given a list of URLs (titles are ignored), now it is possible to create TabGroups using the chosen colour.
+   
+   ![|500](yImages/tabtex_1_4_TabGroupCreate.png)
+   
+2) When opening URLs as new tabs, some URLs are not allowed to be re-created as new tabs. In v1.3 they were printed as warnings to the console. Now a popup lists such URLs if they were present among the requested URLs list, so that its easier to see if this happened.
+
+   ![|500](yImages/reopening-urls-in-tabs-error-popup.png)
+
 #### v 1.3: Re-open tabs - May 2025
 1) Re-open URLs as Tabs (Note: Tab groups are re-opened as individual tabs at present)
    a. Opens the tabs for http, https, ftp etc.
@@ -44,3 +53,5 @@ Options available (to extract the Title and URL) are as follows:
 
 ---
 Back to [README](README.md) | Any suggestions? [Issue register](https://github.com/madukan/tabtex/issues)
+
+

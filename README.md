@@ -11,22 +11,29 @@ Effortlessly export the title and URL of your open tabs as text.
 
 Get the URLs and Titles for the Tab Group currently in focus:
 
-![](yImages/tabtex_1_3__2.png.png)
+![](yImages/2_img-%202025-05-20%20at%209.11.09%20pm.png)
+
+It is possible to cut/change/copy as you wish before copying over the selection leaving the user with freedom to make the information more relevant for the specific use-case.
+
+![](yImages/1_img_2025-05-20_20-39-58.png)
 
 
-Get all the active pages' URLs across all the windows (reminds later what was working on):
+A screenshot when there are multi windows and tab groups currently opened. Notice now there're "All Windows" option and "This Group" option. 
 
-![](resources/tabtex_screenshot_v1.png)
+![](yImages/4_img_2025-05-20_20-06-23.png)
 
 
-Choose from four export options:
+**Options (Radio buttons)**
 
-1. Export only the current tab
-2. Export all tabs in the current window
-3. Export tabs from all open windows
-4. Export only active tabs across all windows
-5. Export current tab group (group of the tab in focus)
+Following are the options available to filter/show the tab url/title details along with their short descriptions of the use-cases. 
 
+| #   | Option (Radio) | Description/Meaning                                                     | Availability                             |
+| --- | -------------- | ----------------------------------------------------------------------- | ---------------------------------------- |
+| 1   | This Tab       | Current Tab that is in focus                                            | Always                                   |
+| 2   | Active Tabs    | Tabs in focus across all the windows                                    | Always                                   |
+| 3   | This Window    | All the tabs in current (the window user is actively working on) window | Always                                   |
+| 4   | All Windows    | All the windows, despite active or not                                  | When multiple Chrome Windows opened      |
+| 5   | This Group     | If a current tab is a part of Tab Group, that group                     | When current tab is part of a tab group  |
 
 Also, the URLs in the text area can be opened as new tabs in one click too!
 
@@ -39,7 +46,6 @@ TabTex is designed to make archiving, documenting, and referencing your past vis
 2. This repository: https://github.com/madukan/tabtex
 
 ## Setup step by step
-
 Here're the steps to get started: [SETUP](SETUP.md)
 
 ## Release notes
