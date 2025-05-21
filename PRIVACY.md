@@ -26,16 +26,16 @@ As all data remains **strictly within your browser**, there is no risk of unauth
 
 ## 5. Permissions
 
-TabTex requires the following Chrome permission:
-- **"tabs" Permission:** This allows the extension to access tab titles and URLs to display them within your browser. This data is never transmitted elsewhere.
-
+TabTex requires the following Chrome permissions:
+1. **"tabs" Permission:** This allows the extension to access tab titles and URLs to display them within your browser. This data is never transmitted elsewhere.
+2. **"tabGroups" Permission:** This allows the extension to create TabGroups for the user from the URL's given by them.
 ## 6. Changes to This Policy
 
 We may update this Privacy Policy from time to time. If significant changes occur, we will update the effective date and notify users via the extension page or an update notice.
 
-## 7. Contact Us
+## 7. Contact
 
-If you have any questions about this Privacy Policy or how TabTex operates, please contact us at **maduranga.kannangara@gmail.com**.
+If you have any questions about this Privacy Policy or how TabTex operates, please contact **maduranga.kannangara@gmail.com**.
 
 By using TabTex, you acknowledge that you have read and understood this Privacy Policy.
 
