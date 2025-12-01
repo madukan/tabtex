@@ -5,7 +5,14 @@
 2) Tab group should be visible only when tab-groups are present that current tab is a part of
 3) Tab groups to export all across windows
 
-#### v 1.4: Errors reported for re-opening URLs as Tabs - June 2025
+#### v1.5: 
+1) A Checkbox :: move (unique) tabs into the tab group, or create new tabs if not checked.
+   ![](yImages/5_img_2025-12-02-02-08-35.png)
+   NOTE: Last choice is remembered and used.
+
+2) Non functional: Manifest is now used to populate the version info automatically.
+
+#### v 1.4: Errors are now reported for re-opening URLs as Tabs
 1) Given a list of URLs (titles are ignored), now it is possible to create TabGroups using the chosen colour.
    
    ![|500](yImages/tabtex_1_4_TabGroupCreate.png)
