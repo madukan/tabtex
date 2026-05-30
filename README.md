@@ -7,6 +7,8 @@ I personally love this as it helps to modify some of the titles to make more sen
 Effortlessly export the title and URL of your open tabs as text.
 [Check it out in the Chrome Webstore](https://chromewebstore.google.com/detail/tabtex-your-tabs-in-text/biegdeiiiaifgdaibelghkalfhdpifnm).
 
+See the latest version features on the [RELEASE](RELEASE.md) page.
+
 ## Features
 
 Get the URLs and Titles for the Tab Group currently in focus:
