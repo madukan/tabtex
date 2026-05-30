@@ -14,6 +14,7 @@
 2) Added hover-over help texts.
 3) Also, say there were hundreds of tabs opened, and now the URL/Title text-area will automatically scroll into the tab you are working on.
 4) Now you can save the text area as a text file. (Rename the txt to `.md` and you got a starting point for your markdown references)
+5) TabTex automatically scroll its text area to the current tab's link/title when you start it (Kind of deprecates the use of "This Tab" radio button there!)
 
 #### v1.5: 
 1) A Checkbox :: move (unique) tabs into the tab group, or create new tabs if not checked.
