@@ -5,6 +5,16 @@
 2) Tab group should be visible only when tab-groups are present that current tab is a part of
 3) Tab groups to export all across windows
 
+#### v1.6: Search by text, jump to the tab
+1) Search tabs by Title/URL:
+   Pressing `ENTER` key takes to the next find; `SHIFT + ENTER` goes to the previous find.
+   While at the current search result, pressing the `Tab` button will jump to that tab.
+   ![](yImages/Pasted%20image%2020260530135820.png)
+   
+2) Added hover-over help texts.
+3) Also, say there were hundreds of tabs opened, and now the URL/Title text-area will automatically scroll into the tab you are working on.
+4) Now you can save the text area as a text file. (Rename the txt to `.md` and you got a starting point for your markdown references)
+
 #### v1.5: 
 1) A Checkbox :: move (unique) tabs into the tab group, or create new tabs if not checked.
    ![](yImages/5_img_2025-12-02-02-08-35.png)
